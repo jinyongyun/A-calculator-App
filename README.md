@@ -31,3 +31,7 @@ Asis : 스택 뷰의 방향을 결정, vertical로 설정하면 스택뷰가 가
 ## Spacing
 스택 뷰 안에 들어가는 뷰들의 간격을 조정하는 속성<br>
 spacing 값에 따라 서브 뷰들의 간격이 넓어지거나 좁아진다 <br>
+
+## 완성
+![스크린샷 2022-06-29 오후 7 53 50](https://user-images.githubusercontent.com/102133961/176420468-8956dc88-4aa4-475c-aa78-ef6dd18c232d.jpg)
+![스크린샷 2022-06-29 오후 7 54 11](https://user-images.githubusercontent.com/102133961/176420501-e8f1e659-1ace-4d4e-bec8-1c086472ec0a.jpg)
